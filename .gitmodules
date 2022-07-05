@@ -3,5 +3,5 @@
 	url = https://gitlab.com/libeigen/eigen.git
 [submodule "volesti"]
 	path = volesti
-	url = https://github.com/GeomScale/volesti.git
-	branch = volesti4dingo
+	url = git@github.com:dymil/volesti.git
+	branch = 4dingo_fixes
